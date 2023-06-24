@@ -18,7 +18,7 @@ Step 4:
 
 END THE PROGRAM
 ## Program:
-
+```
 #Program to find the rank of a matrix.
 #Developed by: paulsamson s
 #RegisterNumber:212222230104
@@ -26,7 +26,7 @@ import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
-
+```
 ## Output:
 ![image](https://github.com/paulsamson18/RANK-OF-A-MATRIX/assets/119405794/3f863531-1c86-412c-9094-b1135a789329)
 
